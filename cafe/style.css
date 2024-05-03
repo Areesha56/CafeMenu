@@ -1,0 +1,119 @@
+h1,h2,p{
+    text-align: center;
+}
+body{
+    background-image: url("/cafe/images/nathan-dumlao-6VhPY27jdps-unsplash.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+    font-style: italic;
+    font-size: larger;
+    font-family: sans-serif;
+    padding: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -18px;
+}
+h1,h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.menu{
+    width: 80%;
+    max-width: 500px;
+    background-color: rgb(200, 126, 29);  
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+}
+h1 {
+    font-size: 40px;
+    margin-top:0;
+    margin-bottom: 15px;
+  }
+hr{
+    height: 2px;
+    border: brown 5px 3px 1px;
+    border-width: 1px;
+    background-color: brown;
+    border-color: brown;
+}
+.dessert,.flavour{
+    text-align: left;
+    width: 75%;
+
+}
+.price{
+    text-align: right;
+    width: 25%;
+
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.bottom-line{
+    margin-top: 25px;
+}
+
+/* Footer */
+footer{
+    font-size: 14px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color:brown;
+}
+.address{
+    margin-bottom:5px
+  }
+
+
+/* Coming Soon */
+.coming{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+    margin-top: auto;
+    background-image: none;
+}
+
+/* Survey Form */
+.surveybody{
+    background-image: url("/cafe/images/scott-graham-5fNmWej4tAA-unsplash.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 80%;
+    font-style: italic;
+    font-size: large;
+    color: black;
+}
+.Surveystyle{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right:20px ;
+}
